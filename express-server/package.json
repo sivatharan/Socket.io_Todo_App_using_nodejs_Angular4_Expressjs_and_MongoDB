@@ -1,0 +1,27 @@
+{
+  "name": "express-server",
+  "version": "1.0.0",
+  "description": "express server for mern todo app",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app_hooked.js"
+  },
+  "keywords": [
+    "express",
+    "server",
+    "todo",
+    "app"
+  ],
+  "author": "Sivatharan A",
+  "license": "ISC",
+  "dependencies": {
+    "babel-preset-es2015-node6": "^0.4.0",
+    "babel-register": "^6.26.0",
+    "body-parser": "^1.17.2",
+    "express-busboy": "^6.0.1",
+    "mongoose": "^4.11.7",
+    "morgan": "^1.8.2",
+    "socket.io": "^2.0.3",
+    "source-map-support": "^0.4.16"
+  }
+}
