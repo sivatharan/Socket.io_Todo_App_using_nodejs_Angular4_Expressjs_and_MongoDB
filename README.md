@@ -5,8 +5,8 @@ Simple to do app add title and description
 
 ### Technologies​
 - Frontend : angular 4 and boostrab
-- Backend Service: Node JS - Express socket io
-- Database:Mongodb (https://www.mongodb.com/)
+- Backend Service: Node JS - Express and [Socket io] (https://socket.io/)
+- Database: [Mongodb] (https://www.mongodb.com/)
 ```
     mongoose.connect('mongodb://localhost/mern-todo-app', {
         useMongoClient: true,
@@ -30,4 +30,4 @@ Simple to do app add title and description
 
 ## Something Missing?
 
-If you have ideas for more “How To” recipes that should be on this page, [let me know](https://github.com/sivatharan/React-and-Nodejs-Simple-Library-System/issues) or [contribute some!](https://github.com/sivatharan/React-and-Nodejs-Simple-Library-System/blob/master/README.md)
+If you have ideas for more “How To” recipes that should be on this page, [let me know](https://github.com/sivatharan/Socket.io_Todo_App_using_nodejs_Angular4_Expressjs_and_MongoDB/issues) or [contribute some!](https://github.com/sivatharan/Socket.io_Todo_App_using_nodejs_Angular4_Expressjs_and_MongoDB/blob/master/README.md)
