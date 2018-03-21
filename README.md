@@ -12,7 +12,7 @@ Simple to do app add title and description
         useMongoClient: true,
     });
 ```
-### prepare database
+### prepare database 
 
 - start mongodb server
 
