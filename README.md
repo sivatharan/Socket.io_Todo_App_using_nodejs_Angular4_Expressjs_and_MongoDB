@@ -5,8 +5,8 @@ Simple to do app add title and description
 
 ### Technologies​
 - Frontend : angular 4 and boostrab
-- Backend Service: Node JS - Express and [Socket io] (https://socket.io/)
-- Database: [Mongodb] (https://www.mongodb.com/)
+- Backend Service: Node JS - Express and [Socket io](https://socket.io/)
+- Database: [Mongodb](https://www.mongodb.com/)
 ```
     mongoose.connect('mongodb://localhost/mern-todo-app', {
         useMongoClient: true,
