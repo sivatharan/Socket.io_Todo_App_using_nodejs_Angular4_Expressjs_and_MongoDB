@@ -65,7 +65,7 @@ const port = process.env.PORT || 3001;
 
 // connect to database
 mongoose.Promise = global.Promise;
-mongoose.connect('mongodb://localhost/mern-todo-app', {
+mongoose.connect('mongodb://localhost/todo-app', {
   useMongoClient: true,
 });
 

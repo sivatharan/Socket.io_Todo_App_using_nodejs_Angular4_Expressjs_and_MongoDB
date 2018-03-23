@@ -8,7 +8,7 @@ Simple to do app add title and description
 - Backend Service: Node JS - Express and [Socket io](https://socket.io/)
 - Database: [Mongodb](https://www.mongodb.com/)
 ```
-    mongoose.connect('mongodb://localhost/mern-todo-app', {
+    mongoose.connect('mongodb://localhost/todo-app', {
         useMongoClient: true,
     });
 ```
